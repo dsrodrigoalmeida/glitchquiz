@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1072166224888",
+    "firebase_url": "https://glitchquiz.firebaseio.com",
+    "project_id": "glitchquiz",
+    "storage_bucket": "glitchquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072166224888:android:ca47cf5a0e9878f7734c0d",
+        "android_client_info": {
+          "package_name": "br.com.rodrigoale.glitchquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072166224888-s636l4c5shv4rsonlvjc9rmqd88s7isk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.rodrigoale.glitchquiz",
+            "certificate_hash": "4a12fa7abc9f2ff1886198eee48ce9556b7816fe"
+          }
+        },
+        {
+          "client_id": "1072166224888-pg4f7pmojukhmv8f20nd4jll2k8t6j49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPPoTiHG5FzKPYljxfSId9EzUyQh8RT9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072166224888-pg4f7pmojukhmv8f20nd4jll2k8t6j49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
